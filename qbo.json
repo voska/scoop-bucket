@@ -6,14 +6,14 @@
             "bin": [
                 "qbo.exe"
             ],
-            "hash": "bef96c6049eaaf2499ebd5ea18775420ef39ef666ae3141f33f01d24a4779fe0"
+            "hash": "7ed768adfd8f559d3f6bd4a4aed3d95c5c7139d359b66cb9a91bd570acff673b"
         },
         "arm64": {
             "url": "https://github.com/voska/qbo-cli/releases/download/v0.2.0/qbo-cli_0.2.0_windows_arm64.zip",
             "bin": [
                 "qbo.exe"
             ],
-            "hash": "44227a169760ab469a08c5e697026102d5541a7731b53dd507132c142de36bc9"
+            "hash": "cd2d77180e175b02caa5b520f6b56f1cf184d86321e77702b275e6104d0027c3"
         }
     },
     "homepage": "https://github.com/voska/qbo-cli",
