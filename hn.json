@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/hn-cli/releases/download/v0.1.0/hn-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "hn.exe"
+            ],
+            "hash": "dd881d695abd8792d70b6220f71521c70c73097aea04efa8ada9d5f5819e98b8"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/hn-cli/releases/download/v0.1.0/hn-cli_0.1.0_windows_arm64.zip",
+            "bin": [
+                "hn.exe"
+            ],
+            "hash": "aa8eb8724779f9d5343250236b53604b98e444cfa68c9ea1680d59da4f47a053"
+        }
+    },
+    "homepage": "https://github.com/voska/hn-cli",
+    "license": "MIT",
+    "description": "Agent-friendly Hacker News CLI via the Algolia API"
+}
