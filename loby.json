@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/loby/releases/download/v0.1.0/loby_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "loby.exe"
+            ],
+            "hash": "1e5779119cfeae1b2971a7c4e5efb8d9ea91cfceab097d774452a1369d61c1c3"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/loby/releases/download/v0.1.0/loby_0.1.0_Windows_arm64.zip",
+            "bin": [
+                "loby.exe"
+            ],
+            "hash": "f55ccfba899faf215186929fc63d5e36820ca9c84ff6caa7ef2590fc841a5235"
+        }
+    },
+    "homepage": "https://lobycli.com",
+    "license": "MIT",
+    "description": "Canonical CLI for Lob — direct mail, address verification, and campaigns for humans and AI agents."
+}
