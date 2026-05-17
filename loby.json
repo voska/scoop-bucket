@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/voska/loby/releases/download/v0.1.3/loby_0.1.3_Windows_x86_64.zip",
+            "url": "https://github.com/voska/loby/releases/download/v0.1.4/loby_0.1.4_Windows_x86_64.zip",
             "bin": [
                 "loby.exe"
             ],
-            "hash": "c138153cbe5113c2886e99f480274b876938d19ed302672ba66669bf3fbe53ac"
+            "hash": "bb7b5a2638d9fa65c30f94114a53d23541d1b618df061de661c8457ffdf9f141"
         },
         "arm64": {
-            "url": "https://github.com/voska/loby/releases/download/v0.1.3/loby_0.1.3_Windows_arm64.zip",
+            "url": "https://github.com/voska/loby/releases/download/v0.1.4/loby_0.1.4_Windows_arm64.zip",
             "bin": [
                 "loby.exe"
             ],
-            "hash": "653d93f6d7946d3c7c4d2d9bdd85a6cd533acd123d1b040a19cdb6c2e61c472b"
+            "hash": "7be023bfffbaf0c306efefa43a5978a1617b5880ae316af9e0921f50bfa3c411"
         }
     },
     "homepage": "https://lobycli.com",
