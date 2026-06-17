@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/voska/qbo-cli/releases/download/v0.2.0/qbo-cli_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/voska/qbo-cli/releases/download/v0.3.0/qbo-cli_0.3.0_windows_amd64.zip",
             "bin": [
                 "qbo.exe"
             ],
-            "hash": "7ed768adfd8f559d3f6bd4a4aed3d95c5c7139d359b66cb9a91bd570acff673b"
+            "hash": "7762ab9d5115a39d3b0a1f9b61c3f9b833fd8c64f1212ee828598ec614925fa1"
         },
         "arm64": {
-            "url": "https://github.com/voska/qbo-cli/releases/download/v0.2.0/qbo-cli_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/voska/qbo-cli/releases/download/v0.3.0/qbo-cli_0.3.0_windows_arm64.zip",
             "bin": [
                 "qbo.exe"
             ],
-            "hash": "cd2d77180e175b02caa5b520f6b56f1cf184d86321e77702b275e6104d0027c3"
+            "hash": "016c95848d97c8e7842cf378b8c5a332409c7ec1b2a8266580039b8438bb19dc"
         }
     },
     "homepage": "https://github.com/voska/qbo-cli",
