@@ -1,0 +1,19 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/zonasul/releases/download/v0.5.0/zonasul_0.5.0_windows_amd64.zip",
+            "bin": [
+                "zonasul.exe"
+            ],
+            "hash": "964fada95e3e1b5fbc40da8da0a3c8d83b5942626e98a9df6b4563f39372de69"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/zonasul/releases/download/v0.5.0/zonasul_0.5.0_windows_arm64.zip",
+            "bin": [
+                "zonasul.exe"
+            ],
+            "hash": "21762ca0096373262c75400159b37bd6f116ca48bad41cdecd761986b95c9702"
+        }
+    }
+}
