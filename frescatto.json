@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/frescatto/releases/download/v0.1.0/frescatto_0.1.0_windows_amd64.zip",
+            "bin": [
+                "frescatto.exe"
+            ],
+            "hash": "cbf64940811722059acb1af64da37a4122e698052e890ae513282f3ce337a821"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/frescatto/releases/download/v0.1.0/frescatto_0.1.0_windows_arm64.zip",
+            "bin": [
+                "frescatto.exe"
+            ],
+            "hash": "ba6cd167296675740f0a8140e46880731ec7809dc9a89d2ea5f37979aeb86c6d"
+        }
+    }
+}
