@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/hortifruti/releases/download/v0.1.0/hortifruti_0.1.0_windows_amd64.zip",
+            "bin": [
+                "hortifruti.exe"
+            ],
+            "hash": "882fe6ca43a662a28e637f784dd1a588f63fdf0aa9093fd085614dd71a134b0b"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/hortifruti/releases/download/v0.1.0/hortifruti_0.1.0_windows_arm64.zip",
+            "bin": [
+                "hortifruti.exe"
+            ],
+            "hash": "2dfdf9ca1809fb2b0c8491205df667b9109e7f974e24c9d04aad0ab5d440482d"
+        }
+    }
+}
