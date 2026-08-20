@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/venancio/releases/download/v0.1.0/venancio_0.1.0_windows_amd64.zip",
+            "bin": [
+                "venancio.exe"
+            ],
+            "hash": "1e7507b3659452b1584eb3ce659933919b67c42f72022bfb7d337a03c941e01a"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/venancio/releases/download/v0.1.0/venancio_0.1.0_windows_arm64.zip",
+            "bin": [
+                "venancio.exe"
+            ],
+            "hash": "40beb4230e9db00af7becff98ad86fda56aec5663d407edcb812a8393ecc7551"
+        }
+    }
+}
