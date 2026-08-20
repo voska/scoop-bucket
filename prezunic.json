@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/prezunic/releases/download/v0.1.0/prezunic_0.1.0_windows_amd64.zip",
+            "bin": [
+                "prezunic.exe"
+            ],
+            "hash": "22f2ee930d8d3079d7263655260178dc17df9bedf810e32a90d516bcc9b7ff33"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/prezunic/releases/download/v0.1.0/prezunic_0.1.0_windows_arm64.zip",
+            "bin": [
+                "prezunic.exe"
+            ],
+            "hash": "4d89fde4c48cee8149d68a2abd19784563376541b6a1d8eaff92b78233c7e963"
+        }
+    }
+}
