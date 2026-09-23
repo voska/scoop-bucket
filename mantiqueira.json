@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/voska/mantiqueira/releases/download/v0.1.0/mantiqueira_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/voska/mantiqueira/releases/download/v0.2.0/mantiqueira_0.2.0_windows_amd64.zip",
             "bin": [
                 "mantiqueira.exe"
             ],
-            "hash": "58b76fd314432cb755f7aa5b72cda10e08bf538d350cc11c5df8a6544c3c0efb"
+            "hash": "da6283c91bf1e8ffa210665b8f9e30bea25d3b973fbe57e3c78521b937278ba8"
         },
         "arm64": {
-            "url": "https://github.com/voska/mantiqueira/releases/download/v0.1.0/mantiqueira_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/voska/mantiqueira/releases/download/v0.2.0/mantiqueira_0.2.0_windows_arm64.zip",
             "bin": [
                 "mantiqueira.exe"
             ],
-            "hash": "6e61b321d36e4decb205cf37f88a26c3e01f5fbf7782f902c7ccc9c3639751df"
+            "hash": "2a7114ab0b54a091b0292ea82deba6b3bdabf970c0f69c742e50bb9596b23e2f"
         }
     }
 }
