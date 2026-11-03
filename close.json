@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/voska/close/releases/download/v0.1.0/close_0.1.0_windows_amd64.zip",
+            "bin": [
+                "close.exe"
+            ],
+            "hash": "0d922efeadafc18cead3167b1d745180b3e90c254fcdacc18d6366f90dfb9254"
+        },
+        "arm64": {
+            "url": "https://github.com/voska/close/releases/download/v0.1.0/close_0.1.0_windows_arm64.zip",
+            "bin": [
+                "close.exe"
+            ],
+            "hash": "0da6a927c54522528a37b560a6f4c850ce6271ac8c3de8433d11b7dec192ef9e"
+        }
+    },
+    "homepage": "https://github.com/voska/close",
+    "license": "MIT",
+    "description": "Close CRM CLI for humans and AI agents"
+}
