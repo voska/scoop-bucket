@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/voska/hn-cli/releases/download/v0.2.1/hn-cli_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/voska/hn-cli/releases/download/v0.3.0/hn-cli_0.3.0_windows_amd64.zip",
             "bin": [
                 "hn.exe"
             ],
-            "hash": "cb9832df24a906d67f6ff69709dee79a0a9b2667e29a009f9f157488f001bbb2"
+            "hash": "4d8a3581c37ff7beb1aa02d2af5cd4c6e7a741c1ad70ceb589884ae13cb5b04d"
         },
         "arm64": {
-            "url": "https://github.com/voska/hn-cli/releases/download/v0.2.1/hn-cli_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/voska/hn-cli/releases/download/v0.3.0/hn-cli_0.3.0_windows_arm64.zip",
             "bin": [
                 "hn.exe"
             ],
-            "hash": "bfe7037d5a729c00214b495a9f6c6d755941c8f71a46a1750c85830626737d00"
+            "hash": "5b1761ad03596cc65374c3e8dbf6f8d441b5e59603fcde13adf68786649c428d"
         }
     },
     "homepage": "https://github.com/voska/hn-cli",
