@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/voska/close/releases/download/v0.2.0/close_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/voska/close/releases/download/v0.2.1/close_0.2.1_windows_amd64.zip",
             "bin": [
                 "close.exe"
             ],
-            "hash": "fed9425e277a74572722b69ea421d79ae8f0dde4015cf7b5c592b856c49d7bae"
+            "hash": "6410331fe0d018894ad8b847a0fa4b88f23a6aca8e8675fcf0f47d4c3c806a05"
         },
         "arm64": {
-            "url": "https://github.com/voska/close/releases/download/v0.2.0/close_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/voska/close/releases/download/v0.2.1/close_0.2.1_windows_arm64.zip",
             "bin": [
                 "close.exe"
             ],
-            "hash": "36db149995788f3315c4bd214607e95d83a5a2c6aaffcbc6f50d08a6e3d45974"
+            "hash": "26606133d01fbc7b981e5b01183ab12582bda195517a8628d801cce66d1a2589"
         }
     },
     "homepage": "https://github.com/voska/close",
